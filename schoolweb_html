@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+    <head>
+
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible"
+	content="IE=edge">
+	<meta name="Viewport" content="width=device-width,initial-scale=1.0"  >
+        <title>University Sites by Techy gurl
+        </title>
+
+        <link rel="stylesheet" type="text/css" href="stylesite.css">
+
+    </head>
+    <body>
+        <section class="Header">
+            <nav>
+                <a href="schoolsite.html"> <img src="C:\Users\ADENIKE BALOGUN\Desktop\logo2image.jpeg" ></a>
+                <div class="nav-links">
+
+                <ul>
+                    <li><a href=""></a>HOME </li>
+                    <li><a href=""></a>ABOUT </li>
+                    <li><a href=""></a>COURSE </li>
+                    <li><a href=""></a>CONTACT </li>
+                    <li><a href=""></a>BLOG</li>
+                </ul>
+            
+
+            </div>
+            </nav>
+        <div class="text-box">
+            <h1>World Biggest University</h1>
+            <p>ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore <br> magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco  </p>
+            <a href="" class="hero-btn">Learn More</a>
+
+
+            </div>
+
+
+        </section>
+        
+    </body>
+
+</html>
